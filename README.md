@@ -1,15 +1,31 @@
-<h2 align="left">Hi 👋! My name is Álvaro Radu and I'm a back-end developer 💻</h2>
+# Hi 👋! My name is Álvaro Radu and I'm a back-end developer 💻
 
-### 🚀 Looking for an internship opportunity to grow as a developer  
+<br>
+
+## 🚀 Looking for an internship opportunity to grow as a developer  
 I'm a responsible and motivated person, eager to learn and improve alongside a great team.  
 🌍 English level: B2 – comfortable in technical environments and professional communication.  
 📂 You can find my main projects here, also check out some extra work on my [portfolio](https://paint-sushi-a41.notion.site/CV-lvaro-Radu-Rumayor-13a59f084eb58071ae5ef60e4f89c602).
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Alcugan/Alcugan/output/snake.svg" alt="Snake animation"  />
 
 <br>
 
-gfdhdg
+## 💻 Projects
+### CRUD Application with Java and a Database Management System. Learn more [here](https://github.com/Alcugan/SistemaVentas.git)
+<img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/SistVent.png" width=800 height=500>
 
+### Dynamic Digital Calendar Web Project Using PHP, JS, HTML & CSS. Learn more [here](https://github.com/Alcugan/CalendarioDigital.git)
+<img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/CalDig.png" width=800 height=400>
+
+
+<br>
+<br>
+<br>
 
 <table>
   <tr>
@@ -62,9 +78,40 @@ gfdhdg
 <br>
 <br>
 
-<h2 align="center">Get in touch! 📞</h2>
+###
+
+<img align="right" height="300" src="https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif?cid=82a1493bv3vqear9okslattlodirtgcb5tj9blf9uh0i6gmg&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
+
+
+## 🌟 My Values
+
+The values that guide my personal and professional life are essential for my growth as an individual and as a team member. Here are the core principles that I hold dear:
+
+### 1. **Responsibility and Commitment**  
+Being responsible means not only completing tasks but also taking ownership and ensuring high-quality work. I am committed to delivering results and continuously learning from every experience to improve my skills.
+
+### 2. **Continuous Learning**  
+I believe that learning is a lifelong journey. I am always looking for opportunities to enhance my technical and personal skills, keeping up with the latest trends in technology to stay ahead and apply new knowledge to my work.
+
+### 3. **Collaboration and Teamwork**  
+I value working in teams, sharing ideas, and learning from others. I am proactive in group discussions and always ready to contribute my efforts to help the team succeed and grow together.
+
+### 4. **Adaptability**  
+The tech landscape is constantly evolving, and I pride myself on being flexible and open to change. Whether it's new tools, methods, or team dynamics, I embrace challenges and adapt quickly to different environments.
+
+### 5. **Curiosity and Innovation**  
+My curiosity drives me to explore new technologies and solutions. I am passionate about finding innovative ways to solve problems and improve processes, always looking for opportunities to create something better.
+
+### 6. **Integrity and Transparency**  
+I believe in honesty and maintaining open communication. I strive to build trust within my team and with clients by being transparent, ethical, and accountable in all my interactions.
+
+
+
 
 ###
+<br>
+
+<h2 align="center">Get in touch! 📞</h2>
 
 <div align="center">
   <a href="www.linkedin.com/in/alvaro-radu" target="_blank">
@@ -77,18 +124,6 @@ gfdhdg
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="300" src="https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif?cid=82a1493bv3vqear9okslattlodirtgcb5tj9blf9uh0i6gmg&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Alcugan/Alcugan/output/snake.svg" alt="Snake animation"  />
-
-
 <!--
 **Alcugan/Alcugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
