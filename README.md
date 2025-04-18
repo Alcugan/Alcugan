@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alcugan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="right">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdoY21nejM4bTl6ZGpyNGl3dDFzNHpvdWJuYzJrN29sMzByeGRvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Day1AgFfMBsrL6BTpF/giphy.gif"  />
 </div>
 
@@ -68,7 +68,6 @@
 
 <img src="https://raw.githubusercontent.com/Alcugan/Alcugan/output/snake.svg" alt="Snake animation" />
 
-##### Hi there 👋
 
 <!--
 **Alcugan/Alcugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
