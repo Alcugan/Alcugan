@@ -12,10 +12,10 @@ I'm a responsible and motivated person, eager to learn and improve alongside a g
 
 ## 💻 Projects
 ### CRUD Application with Java and a Database Management System. Learn more [here](https://github.com/Alcugan/SistemaVentas.git)
-<img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/SistVent.png" width=800 height=500>
+<img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/SistVent.png" width=80% height=50%>
 
 ### Dynamic Digital Calendar Web Project Using PHP, JS, HTML & CSS. Learn more [here](https://github.com/Alcugan/CalendarioDigital.git)
-<img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/CalDig.png" width=800 height=400>
+<img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/CalDig.png" width=80% height=50%>
 
 
 <br>
