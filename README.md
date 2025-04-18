@@ -1,19 +1,14 @@
 # Hi 👋! My name is Álvaro Radu and I'm a back-end developer 💻
 
-<br>
-
 ## 🚀 Looking for an internship opportunity to grow as a developer  
 I'm a responsible and motivated person, eager to learn and improve alongside a great team.  
 🌍 English level: B2 – comfortable in technical environments and professional communication.  
 📂 You can find my main projects here, also check out some extra work on my [portfolio](https://paint-sushi-a41.notion.site/CV-lvaro-Radu-Rumayor-13a59f084eb58071ae5ef60e4f89c602).
 
-###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Alcugan/Alcugan/output/snake.svg" alt="Snake animation"  />
 
-<br>
 
 ## 💻 Projects
 ### CRUD Application with Java and a Database Management System. Learn more [here](https://github.com/Alcugan/SistemaVentas.git)
