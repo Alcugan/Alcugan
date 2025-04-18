@@ -114,7 +114,7 @@ I believe in honesty and maintaining open communication. I strive to build trust
 <h2 align="center">Get in touch! 📞</h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/alvaro-radu" target="_blank">
+  <a href="https://www.linkedin.com/in/alvaro-radu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:alvaroraduu@outlook.es?subject=Contact%C3%A1me?" target="_blank">
