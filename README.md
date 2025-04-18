@@ -1,16 +1,31 @@
-<h2 align="left">Hi 👋! My name is Álvaro Radu and I'm a back-end developer</h2>
+<h2 align="left">Hi 👋! My name is Álvaro Radu and I'm a back-end developer 💻</h2>
 
-###
+### 🚀 Looking for an internship opportunity to grow as a developer  
+I'm a responsible and motivated person, eager to learn and improve alongside a great team.  
+🌍 English level: B2 – comfortable in technical environments and professional communication.  
+📂 You can find my main projects here, also check out some extra work on my [portfolio](https://paint-sushi-a41.notion.site/CV-lvaro-Radu-Rumayor-13a59f084eb58071ae5ef60e4f89c602).
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alcugan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<br>
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdoY21nejM4bTl6ZGpyNGl3dDFzNHpvdWJuYzJrN29sMzByeGRvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Day1AgFfMBsrL6BTpF/giphy.gif"  />
-</div>
+gfdhdg
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alcugan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+    </td>
+    <td width="300"></td> <!-- espacio horizontal -->
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdoY21nejM4bTl6ZGpyNGl3dDFzNHpvdWJuYzJrN29sMzByeGRvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Day1AgFfMBsrL6BTpF/giphy.gif" height="150" width="250" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2> 📚 Tech Stack:</h2>
 
 ###
 
@@ -44,6 +59,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
 
+<br>
+<br>
+
+<h2 align="center">Get in touch! 📞</h2>
+
 ###
 
 <div align="center">
@@ -66,7 +86,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alcugan/Alcugan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Alcugan/Alcugan/output/snake.svg" alt="Snake animation"  />
 
 
 <!--
