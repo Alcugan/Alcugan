@@ -17,24 +17,13 @@ I'm a responsible and motivated person, eager to learn and improve alongside a g
 ### Dynamic Digital Calendar Web Project Using PHP, JS, HTML & CSS. Learn more [here](https://github.com/Alcugan/CalendarioDigital.git)
 <img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/CalDig.png" width=80% height=50%>
 
-
-<br>
-<br>
-<br>
-
-<table>
-  <tr>
-    <td>
+<div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alcugan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-    </td>
-    <td width="300"></td> <!-- espacio horizontal -->
-    <td>
+</div>
+<div align="right">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdoY21nejM4bTl6ZGpyNGl3dDFzNHpvdWJuYzJrN29sMzByeGRvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Day1AgFfMBsrL6BTpF/giphy.gif" height="150" width="250" />
-    </td>
-  </tr>
-</table>
+</div>
 
-<br>
 
 <h2> 📚 Tech Stack:</h2>
 
