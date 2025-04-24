@@ -3,7 +3,6 @@
 ## 🚀 Looking for an internship opportunity to grow as a developer  
 I'm a responsible and motivated person, eager to learn and improve alongside a great team.  
 🌍 English level: B2 – comfortable in technical environments and professional communication.  
-📂 You can find my main projects here, also check out some extra work on my [portfolio](https://paint-sushi-a41.notion.site/CV-lvaro-Radu-Rumayor-13a59f084eb58071ae5ef60e4f89c602).
 
 
 
@@ -16,6 +15,10 @@ I'm a responsible and motivated person, eager to learn and improve alongside a g
 
 ### Dynamic Digital Calendar Web Project Using PHP, JS, HTML & CSS. Learn more [here](https://github.com/Alcugan/CalendarioDigital.git)
 <img src="https://github.com/Alcugan/Alcugan/blob/40b10c00f092877b7d4a67798dfa9c74bce5ff7e/CalDig.png" width=80% height=50%>
+
+### Personal website (Portfolio). Learn more [here](https://alcugan.github.io/Sitio-web-personal/)
+<img src="https://github.com/Alcugan/Alcugan/blob/d4591db9fb4d37d6435f1cab376141b394fca19e/portfolio%20sitio%20web.png" width=80% height=50%>
+<br>
 
 <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alcugan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
