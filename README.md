@@ -1,4 +1,4 @@
-# Hi 👋! My name is Álvaro Radu and I'm a back-end developer 💻
+# Hi 👋! My name is Álvaro Radu and I'm a software developer 💻
 
 ## 🚀 Looking for an internship opportunity to grow as a developer  
 I'm a responsible and motivated person, eager to learn and improve alongside a great team.  
